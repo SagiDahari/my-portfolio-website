@@ -28,10 +28,10 @@ Load fonts via `next/font`. Wire into Tailwind theme tokens. No visible page cha
 
 First visible page. Vertical stack core: name in display type, tagline below in mono. No nav yet.
 
-- [ ] Replace default `page.tsx` content with name + tagline
-- [ ] Apply display face to name, mono face to tagline
-- [ ] Center single column, set max-width, set vertical rhythm
-- [ ] Confirm copy: `Sagi Dahari` + `Backend developer — APIs, databases, secure systems.`
+- [x] Replace default `page.tsx` content with name + tagline
+- [x] Apply display face to name, mono face to tagline
+- [x] Center single column, set max-width, set vertical rhythm
+- [x] Confirm copy: `Sagi Dahari` + `Backend developer — APIs, databases, secure systems.`
 
 ### PR 3 — Nav stack + routing stubs
 
