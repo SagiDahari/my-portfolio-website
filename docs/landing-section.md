@@ -7,7 +7,7 @@ Working doc for the landing section of the portfolio site. Branch: `landing-sect
 - **Aesthetic:** minimalist, type-driven, generous whitespace, monochromatic. Reference: [murielvega.net](https://www.murielvega.net/).
 - **Layout:** single column, centered. Vertical stack: name → tagline → nav actions.
 - **Tagline:** `Backend developer — APIs, databases, secure systems.`
-- **Wink:** monospace tagline. Name in serif/sans display face; tagline in mono (JetBrains Mono or IBM Plex Mono — TBD at impl).
+- **Wink:** monospace tagline. Name in serif/sans display face; tagline in mono (JetBrains Mono).
 - **Primary CTA:** Projects.
 - **Secondary actions:** _Read about me_ (→ `/about`), _Get in touch_ (→ `mailto:`).
 - **Language:** English only.
