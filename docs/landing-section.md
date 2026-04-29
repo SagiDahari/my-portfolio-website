@@ -37,11 +37,11 @@ First visible page. Vertical stack core: name in display type, tagline below in 
 
 Three actions below the tagline. Primary CTA gets visual weight. Stub the linked pages so dev links don't 404.
 
-- [ ] Add nav stack: Projects (primary), Read about me, Get in touch
-- [ ] Visual hierarchy: Projects emphasized vs. the other two
-- [ ] Wire `Get in touch` as `mailto:sagidahari7@gmail.com`
-- [ ] Stub `/projects` page (placeholder heading only)
-- [ ] Stub `/about` page (placeholder heading only)
+- [x] Add nav stack: Projects (primary), Read about me, Get in touch
+- [x] Visual hierarchy: Projects emphasized vs. the other two
+- [x] Wire `Get in touch` as `mailto:sagidahari7@gmail.com`
+- [x] Stub `/projects` page (placeholder heading only)
+- [x] Stub `/about` page (placeholder heading only)
 
 ### PR 4 — Responsive + a11y polish
 
