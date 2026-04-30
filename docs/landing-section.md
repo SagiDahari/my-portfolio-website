@@ -47,11 +47,11 @@ Three actions below the tagline. Primary CTA gets visual weight. Stub the linked
 
 Make it look right at every width and pass accessibility basics.
 
-- [ ] Mobile / tablet / desktop spacing + type scale
-- [ ] Focus styles on all interactive elements
-- [ ] Semantic landmarks (`<main>`, `<nav>`, heading levels)
-- [ ] Color-contrast pass
-- [ ] Respect `prefers-reduced-motion` (if any motion is added)
+- [x] Mobile / tablet / desktop spacing + type scale
+- [x] Focus styles on all interactive elements
+- [x] Semantic landmarks (`<main>`, `<nav>`, heading levels)
+- [x] Color-contrast pass
+- [x] Respect `prefers-reduced-motion` (if any motion is added)
 
 ### PR 5 — Tests
 
