@@ -5,7 +5,9 @@ export default function Home() {
     <main className="flex flex-1 items-center justify-center px-6">
       <div className="flex flex-col items-center text-center">
         <div className="flex flex-col items-center gap-4 lg:gap-6">
-          <h1 className="font-display text-5xl sm:text-6xl lg:text-7xl">Sagi Dahari</h1>
+          <h1 className="font-display text-5xl sm:text-6xl lg:text-7xl">
+            Sagi Dahari
+          </h1>
           <p className="font-mono text-sm sm:text-base text-zinc-600 dark:text-zinc-400">
             Backend developer — APIs, databases, secure systems.
           </p>

@@ -57,10 +57,10 @@ Make it look right at every width and pass accessibility basics.
 
 RTL/Jest coverage for the landing page.
 
-- [ ] Name renders
-- [ ] Tagline renders with mono font class applied
-- [ ] All three nav actions present with correct `href`s
-- [ ] `Get in touch` is a `mailto:` link
+- [x] Name renders
+- [x] Tagline renders with mono font class applied
+- [x] All three nav actions present with correct `href`s
+- [x] `Get in touch` is a `mailto:` link
 
 ## Notes
 
