@@ -28,39 +28,39 @@ Load fonts via `next/font`. Wire into Tailwind theme tokens. No visible page cha
 
 First visible page. Vertical stack core: name in display type, tagline below in mono. No nav yet.
 
-- [ ] Replace default `page.tsx` content with name + tagline
-- [ ] Apply display face to name, mono face to tagline
-- [ ] Center single column, set max-width, set vertical rhythm
-- [ ] Confirm copy: `Sagi Dahari` + `Backend developer — APIs, databases, secure systems.`
+- [x] Replace default `page.tsx` content with name + tagline
+- [x] Apply display face to name, mono face to tagline
+- [x] Center single column, set max-width, set vertical rhythm
+- [x] Confirm copy: `Sagi Dahari` + `Backend developer — APIs, databases, secure systems.`
 
 ### PR 3 — Nav stack + routing stubs
 
 Three actions below the tagline. Primary CTA gets visual weight. Stub the linked pages so dev links don't 404.
 
-- [ ] Add nav stack: Projects (primary), Read about me, Get in touch
-- [ ] Visual hierarchy: Projects emphasized vs. the other two
-- [ ] Wire `Get in touch` as `mailto:sagidahari7@gmail.com`
-- [ ] Stub `/projects` page (placeholder heading only)
-- [ ] Stub `/about` page (placeholder heading only)
+- [x] Add nav stack: Projects (primary), Read about me, Get in touch
+- [x] Visual hierarchy: Projects emphasized vs. the other two
+- [x] Wire `Get in touch` as `mailto:sagidahari7@gmail.com`
+- [x] Stub `/projects` page (placeholder heading only)
+- [x] Stub `/about` page (placeholder heading only)
 
 ### PR 4 — Responsive + a11y polish
 
 Make it look right at every width and pass accessibility basics.
 
-- [ ] Mobile / tablet / desktop spacing + type scale
-- [ ] Focus styles on all interactive elements
-- [ ] Semantic landmarks (`<main>`, `<nav>`, heading levels)
-- [ ] Color-contrast pass
-- [ ] Respect `prefers-reduced-motion` (if any motion is added)
+- [x] Mobile / tablet / desktop spacing + type scale
+- [x] Focus styles on all interactive elements
+- [x] Semantic landmarks (`<main>`, `<nav>`, heading levels)
+- [x] Color-contrast pass
+- [x] Respect `prefers-reduced-motion` (if any motion is added)
 
 ### PR 5 — Tests
 
 RTL/Jest coverage for the landing page.
 
-- [ ] Name renders
-- [ ] Tagline renders with mono font class applied
-- [ ] All three nav actions present with correct `href`s
-- [ ] `Get in touch` is a `mailto:` link
+- [x] Name renders
+- [x] Tagline renders with mono font class applied
+- [x] All three nav actions present with correct `href`s
+- [x] `Get in touch` is a `mailto:` link
 
 ## Notes
 
